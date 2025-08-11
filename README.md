@@ -17,13 +17,19 @@ En:
     From releases download OsuSkinSetUp.zip 
     Extract it
     Drag .osk file to osu Window or just open as Osu!
+    In the skin selection block press "Open current skin folder"
+    Copy path to skin
     Open SkinSetUp.exe
+    Paste path to skin
 Ru:    
 
     Из Releases скачать OsuSkinSetUp.zip
     Распаковать его
     Перетащить .osk файл в окно с осу или просто "Открыть как Osu!"
+    В блоке в выбором скинов нажать "Открыть директорию скина"
+    Скопировать путь к скину
     Запустить SkinSetUp.exe
+    Вставить путь к скину
   ***
 # Файлы востановки/Recover Files
 
