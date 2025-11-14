@@ -46,6 +46,6 @@ EN: Since the project is still in development, any suggestions for its improveme
 
 [EMail]( mailto:requlis123@gmail.com)
 [Discord] deazzzzzy
-And feel free to make commits and write about any issues. I am going to develop this skin and so need to know other opinions
-Также не стесняйтесь делать коммиты и писать о проблемах. Этот скин я собираюсь развивать и доводить до ума, поэтому важно каждое мнение
+And feel free to make commits and write about any issues. 
+Также не стесняйтесь делать коммиты и писать о проблемах. 
 
